@@ -1,0 +1,14 @@
+fullname: rwxrob/jupyterhub
+shortname: jhub
+title: JupyterHub for Kubernetes with User Namespace Support
+repo: https://github.com/rwxrob/k8sapp-jhub
+kubeVersion: '>=1.17.0-0'
+maintainers:
+- name: Rob Muhlestein
+  email: rob@rwx.gg
+  url: https://github.com/rwxrob
+origin: 
+  url: https://z2jh.jupyter.org
+  version: 1.2.0
+  sources:
+  - https://github.com/jupyterhub/zero-to-jupyterhub-k8s
